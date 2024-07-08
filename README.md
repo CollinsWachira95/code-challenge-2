@@ -37,3 +37,4 @@ Understanding the concept of event listeners and how they are used to create int
 Feel free to explore and modify the code to create your own customized shopping list experience!
 
 AUTHOR; COLLINS WACHIRA
+You can check out the site here; [Shopping List](https://collinswachira95.github.io/code-challenge-2/)
